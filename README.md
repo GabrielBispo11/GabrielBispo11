@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBispo11&layout=Gradient&show_icons=true)
 
-# Skills
+ Skills
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)
