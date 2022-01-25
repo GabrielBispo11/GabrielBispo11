@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBispo11&layout=Gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBispo11&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBispo11&layout=compact)](https://github.com/GabrielBispo11/GabrielBispo11/edit/main/README.md)
 
